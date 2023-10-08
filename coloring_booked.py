@@ -22,7 +22,9 @@ import matplotlib.ticker as mtick
 DEFAULT_COLORS=plt.rcParams['axes.prop_cycle'].by_key()['color']                   
 from matplotlib import rc                                                          
 rc('text', usetex=True) 
+# https://pluscoloring.com/search-Barbie.htm
 
+# https://pluscoloring.com/search-Columbus-day.htm
 class ColorBooked(object):
 
     def __init__(self, img_fname, blur, num_centroids):
