@@ -1,4 +1,5 @@
-
+# https://pluscoloring.com/search-Disney.htm
+# https://pluscoloring.com/search-Sonic-hedgehog.htm
 def sketch_image(photo, k_size, scale ):
     #Read Image
     img=cv2.imread(photo)
